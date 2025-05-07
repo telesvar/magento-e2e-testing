@@ -16,3 +16,7 @@ All tests pass with an exception to adding the cheapest item. As a fallback, a b
 - JUnit 5
 - Hamcrest
 - POM
+
+## License
+
+[0BSD](/LICENSE).
